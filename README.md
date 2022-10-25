@@ -5,7 +5,7 @@
 
 - 🔭 I am currently working on **4.4.4 Films portfolio**
 
-- 🌱 I am currently learning **TailwindCss, Mongoose/MongoDb and React Native**
+- 🌱 I am currently learning **Tailwind Css, Mongoose/MongoDb and React Native**
 
 - 💬 Ask me about **HTML, CSS3/SCSS, ESC6, React, Redux.**
 
