@@ -1,7 +1,9 @@
 <h1 align="center">Hello everyone 👋, I am Martin Fogliacco</h1>
 <h3 align="center">A passionate frontend developer from Argentina 🇦🇷</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrtfog" alt="mrtfog" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrtfog" alt="mrtfog" /></a> </p>
+
+<hr/>
 
 <h3 align="left">🚧 Work in progress  </h3>
 - I am currently working on **my portfolio and 4.4.4 Films portfolio **
@@ -15,13 +17,13 @@
 <h3 align="left">📫 How to reach me? </h3>
 - Yo can reach me in 👉 **https://www.linkedin.com/in/martin-fogliacco/ or via fogliaccomartin3@gmail.com**
 
-
-- ⚡ Fun fact: **I consider in-line code is essential to have a clean and readable code.**
-
-- 🙋‍♂️ About me: Hi! I am Martin Fogliacco, Full Stack Developer and Informatic Technician, specializated and passionate with Front End Development.
+<h3 align="left">⚡ Fun fact</h3>
+- **I consider in-line code is essential to have a clean and readable code.**
+<hr/>
+- 🙋‍♂️ About me: <br/> Hi! I am Martin Fogliacco, Full Stack Developer and Informatic Technician, specializated and passionate with Front End Development.
 I am a proactive person, and highly capable to do teamworks and establish a good communication.
 Besides, i prioritize task resolutions, and i am constantly motivated to improve and make a growth of my skills.
-
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/martin fogliacco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin fogliacco" height="30" width="40" /></a>
