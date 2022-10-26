@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/martin-fogliacco/" target="blank">linkedin</a> <br/>
 or via <br/>
-<a href="mailto:fogliaccomartin3@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Martin Fogliacco" height="30" width="40" />fogliaccomartin3@gmail.com</a>
+<a href="mailto:fogliaccomartin3@gmail.com " target="blank">fogliaccomartin3@gmail.com</a>
 </p>
 
 <h3 align="left">⚡ Fun fact</h3>
