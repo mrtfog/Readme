@@ -13,8 +13,7 @@
 
 - ⚡ Fun fact: **I consider in-line code is essential to have a clean and readable code.**
 
-- 🙋‍♂️ About me
-Hello! I am Martin Fogliacco, Full Stack Developer and Informatic Technician, specializated and passionate with Front End Development.
+- 🙋‍♂️ About me: Hi! I am Martin Fogliacco, Full Stack Developer and Informatic Technician, specializated and passionate with Front End Development.
 I am a proactive person, and highly capable to do teamworks and establish a good communication.
 Besides, i prioritize task resolutions, and i am constantly motivated to improve and make a growth of my skills.
 
