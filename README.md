@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrtfog" alt="mrtfog" /></a> </p>
 
-- 🔭 I am currently working on **4.4.4 Films portfolio**
+- 🔭 I am currently working on **4.4.4 Films portfolio and my portfolio**
 
 - 🌱 I am currently learning **Tailwind Css, Mongoose/MongoDb and React Native**
 
@@ -11,7 +11,12 @@
 
 - 📫 How to reach me? 👉 **https://www.linkedin.com/in/martin-fogliacco/**
 
-- ⚡ Fun fact: **I am a proactive person, and very capable to do teamworks and establish a good communication. Besides, i prioritize task resolutions, and i am constantly motivated to improve and make a personal growth of my skills.**
+- ⚡ Fun fact: **I consider in-line code is essential to have a clean and readable code.**
+
+- 🙋‍♂️ About me
+Hello! I am Martin Fogliacco, Full Stack Developer and Informatic Technician, specializated and passionate with Front End Development.
+I am a proactive person, and highly capable to do teamworks and establish a good communication.
+Besides, i prioritize task resolutions, and i am constantly motivated to improve and make a growth of my skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
