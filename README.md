@@ -17,8 +17,8 @@
 <h3 align="left">📫 How to reach me? </h3>
 - You can reach me in 👇
 <p align="left">
-<a href="https://www.linkedin.com/in/martin-fogliacco/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Martin Fogliacco" height="30" width="40" />linkedin</a>
-or via
+<a href="https://www.linkedin.com/in/martin-fogliacco/" target="blank">linkedin</a> <br/>
+or via <br/>
 <a href="mailto:fogliaccomartin3@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Martin Fogliacco" height="30" width="40" />fogliaccomartin3@gmail.com</a>
 </p>
 
