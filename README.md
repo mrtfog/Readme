@@ -6,7 +6,7 @@
 <hr/>
 
 <h3 align="left">🚧 Work in progress </h3>
-- I am currently working on **my portfolio and 4.4.4 Films portfolio **
+- I am currently working on **my portfolio and 4.4.4 Films portfolio**
 
 <h3 align="left">📖 What i am learning about?</h3>
 - I am currently learning **Tailwind Css, Mongoose/MongoDb and React Native**
