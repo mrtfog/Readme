@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS3/SCSS, ESC6, React, Redux.**
 
-- 📫 How to reach me? 👉 **https://www.linkedin.com/in/martin-fogliacco/**
+- 📫 How to reach me? 👉 **https://www.linkedin.com/in/martin-fogliacco/ or via fogliaccomartin3@gmail.com**
 
 - ⚡ Fun fact: **I consider in-line code is essential to have a clean and readable code.**
 
