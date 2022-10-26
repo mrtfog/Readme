@@ -6,22 +6,22 @@
 <hr/>
 
 <h3 align="left">🚧 Work in progress </h3>
-- I am currently working on **my portfolio and 4.4.4 Films portfolio**
+- I am currently working on my portfolio and 4.4.4 Films portfolio
 
 <h3 align="left">📖 What i am learning about?</h3>
-- I am currently learning **Tailwind Css, Mongoose/MongoDb and React Native**
+- I am currently learning Tailwind Css, Mongoose/MongoDb and React Native
 
 <h3 align="left">💬 Ask me about</h3>
-- **HTML, CSS3/SCSS, ESC6, React, Redux.**
+- HTML, CSS3/SCSS, ESC6, React, Redux.
 
 <h3 align="left">📫 How to reach me? </h3>
-- Yo can reach me in 👉 **https://www.linkedin.com/in/martin-fogliacco/ or via fogliaccomartin3@gmail.com**
+- You can reach me in 👉 https://www.linkedin.com/in/martin-fogliacco/ or via fogliaccomartin3@gmail.com
 
 <h3 align="left">⚡ Fun fact</h3>
-- **I consider in-line code is essential to have a clean and readable code.**
+- I consider in-line code is essential to have a clean and readable code.
 <hr/>
 <h3 align="left">🙋‍♂️ About me</h3>
-- Hi! I am Martin Fogliacco, **Full Stack Developer** and Informatic Technician, specializated and **passionate with Front End Development**.
+- Hi! I am Martin Fogliacco, Full Stack Developer and Informatic Technician, specializated and **passionate with Front End Development**.
 I am a proactive person, and highly capable to do teamworks and establish a good communication.
 Besides, i prioritize task resolutions, and i am constantly motivated to improve and make a growth of my skills.
 <hr/>
