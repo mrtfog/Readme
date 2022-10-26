@@ -17,7 +17,7 @@
 <h3 align="left">📫 How to reach me? </h3>
 - You can reach me in 👇
 <p align="left">
-<a href="https://www.linkedin.com/in/martin-fogliacco/" target="blank">linkedin</a> <br/>
+<a href="https://www.linkedin.com/in/martin-fogliacco/" target="blank">LinkedIn</a> <br/>
 or via <br/>
 <a href="mailto:fogliaccomartin3@gmail.com " target="blank">fogliaccomartin3@gmail.com</a>
 </p>
