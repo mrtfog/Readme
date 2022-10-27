@@ -15,7 +15,7 @@
 - HTML, CSS3/SCSS, ESC6, React, Redux.
 
 <h3 align="left">📫 How to reach me? </h3>
-- You can reach me in 👉
+- You can reach me in 👇
 <p align="left">
 <a href="https://www.linkedin.com/in/martin-fogliacco/" target="blank">LinkedIn,</a>
 or via 
