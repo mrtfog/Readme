@@ -12,7 +12,7 @@
 - I am currently learning Tailwind Css and MaterialUi.
 
 <h3 align="left">✨ What i wish to learn?</h3>
-- I wish learn Mongoose/MongoDb and React Native.
+- I wish to learn Mongoose/MongoDb and React Native.
 
 <h3 align="left">💬 Ask me about</h3>
 - HTML, CSS3/SCSS, ESC6, React, Redux.
