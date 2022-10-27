@@ -5,6 +5,14 @@
 
 <hr/>
 
+<h3 align="left">🙋‍♂️ About me</h3>
+- Hi! I am Martin Fogliacco, Full Stack Developer and Informatic Technician, specializated and passionate with Front End Development.
+I am a proactive person, and highly capable to do teamworks and establish a good communication. <br/>
+Besides, i prioritize task resolutions, and i am constantly motivated to improve and make a growth of my skills.
+
+<hr/>
+
+
 <h3 align="left">🚧 Work in progress </h3>
 - I am currently working on my portfolio and 4.4.4 Films portfolio.
 
@@ -27,13 +35,6 @@ or via
 
 <h3 align="left">⚡ Fun fact</h3>
 - I consider in-line code is essential to have a clean and readable code.
-
-<hr/>
-
-<h3 align="left">🙋‍♂️ About me</h3>
-- Hi! I am Martin Fogliacco, Full Stack Developer and Informatic Technician, specializated and passionate with Front End Development.
-I am a proactive person, and highly capable to do teamworks and establish a good communication. <br/>
-Besides, i prioritize task resolutions, and i am constantly motivated to improve and make a growth of my skills.
 
 <hr/>
 
