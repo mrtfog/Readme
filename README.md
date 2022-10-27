@@ -6,7 +6,7 @@
 <hr/>
 
 <h3 align="left">🙋‍♂️ About me</h3>
-- Hi! I am Martin Fogliacco, Full Stack Developer and Informatic Technician, specializated and passionate with Front End Development.
+- Hi! I am Martin Fogliacco, Full Stack Developer and Informatic Technician, specializated and passionate with Front End Development.<br/>
 I am a proactive person, and highly capable to do teamworks and establish a good communication. <br/>
 Besides, i prioritize task resolutions, and i am constantly motivated to improve and make a growth of my skills. <br/>
 Below, you will see more interesting info about me. ⚡
