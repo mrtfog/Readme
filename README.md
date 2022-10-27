@@ -8,17 +8,17 @@
 <h3 align="left">🚧 Work in progress </h3>
 - I am currently working on my portfolio and 4.4.4 Films portfolio.
 
-<h3 align="left">📖 What i am learning about?</h3>
+<h3 align="left">📖 What i am learning?</h3>
 - I am currently learning Tailwind Css, Mongoose/MongoDb and React Native.
 
 <h3 align="left">💬 Ask me about</h3>
 - HTML, CSS3/SCSS, ESC6, React, Redux.
 
 <h3 align="left">📫 How to reach me? </h3>
-- You can reach me in 👇
+- You can reach me in 👉
 <p align="left">
-<a href="https://www.linkedin.com/in/martin-fogliacco/" target="blank">LinkedIn</a> <br/>
-or via <br/>
+<a href="https://www.linkedin.com/in/martin-fogliacco/" target="blank">LinkedIn,</a>
+or via 
 <a href="mailto:fogliaccomartin3@gmail.com " target="blank">fogliaccomartin3@gmail.com</a>
 </p>
 
