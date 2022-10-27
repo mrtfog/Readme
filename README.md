@@ -17,7 +17,7 @@ Below, you will see more interesting info about me. ⚡
 <h3 align="left">🚧 Work in progress </h3>
 - I am currently working on my portfolio and 4.4.4 Films portfolio.
 
-<h3 align="left">📖 What i am learning?</h3>
+<h3 align="left">📖 What i am learning about? </h3>
 - I am currently learning Tailwind Css and MaterialUi.
 
 <h3 align="left">✨ What i wish to learn?</h3>
