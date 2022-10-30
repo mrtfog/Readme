@@ -18,7 +18,7 @@ Below, you will see more interesting info about me. ⚡
 - I am currently working on my portfolio and 4.4.4 Films portfolio.
 
 <h3 align="left">📖 What i am learning about? </h3>
-- I am currently learning Tailwind Css and MaterialUi.
+- I am currently learning Tailwind Css and Three.js.
 
 <h3 align="left">✨ What i wish to learn?</h3>
 - I wish to learn Mongoose/MongoDb and React Native.
