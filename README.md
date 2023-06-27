@@ -1,5 +1,5 @@
 # ⚡ About Me:
-Hi! I am Martin Fogliacco, Full Stack Developer and UX/UI Designer, specializated and passionate with Front End Development.<br>Below, you will see more interesting info about me.<br><br>🚧 Work in progress<br>I am currently working on my portfolio.<br><br>📖 What i am learning about?<br>I am currently learning GSAP, Three.js, and React Native.<br>
+Hi! I am Martin Fogliacco, Full Stack Developer and UX/UI Designer, specializated and passionate with Front End Development.<br>Below, you will see more interesting info about me.<br><br>🚧 Work in progress<br>Currently working on my portfolio.<br><br>📖 What i am learning about?<br>Currently learning GSAP, Three.js, and React Native.<br>
 
 
 ## 🌐 Socials:
