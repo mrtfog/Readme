@@ -1,5 +1,5 @@
 # ⚡ About Me:
-Hi! I am Martin Fogliacco, Full Stack Developer and UX/UI Designer, specializated and passionate with Front End Development.<br>Below, you will see more interesting info about me.<br><br>🚧 Work in progress<br>-Working on my portfolio.<br>-Huga Website <br>-Quanta Sell Stock Management System Website <br> <br>►📖 What i am learning about?<br>Currently learning GSAP, Spline, and Astro<br>
+Hi! I am Martin Fogliacco, Full Stack Developer and UX/UI Designer, specializated and passionate with Front End Development.<br>Below, you will see more interesting info about me.<br><br>🚧 Work in progress<br>-Working on my portfolio.<br>-Huga Website <br>-Qualitrack Management System <br> <br>►📖 What i am learning about?<br>Currently learning Astro<br>
 
 
 ## 🌐 Socials:
